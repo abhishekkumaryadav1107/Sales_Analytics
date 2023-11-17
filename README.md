@@ -1,5 +1,4 @@
-# Sales_Analytics
-Capstone Project
+# Sales_Analytics (CAPSTONE)
 
 
 Project Overview: The project aims to develop a comprehensive Power BI report for Northwind Traders, a fictional company dealing in specialty foods. The primary objective is to create an intuitive and visually appealing dashboard that effectively communicates key performance metrics to aid stakeholders in making informed business decisions. The report will integrate data from various tables within the Northwind database to provide insights into sales analysis, customer segmentation, inventory trends, and employee performance.
